@@ -1,5 +1,5 @@
 # Ultra.io
-## QA Automation Test
+## QA Automation Test ![example workflow](https://github.com/Rainase/ultra-technical-test/actions/workflows/main.yml/badge.svg)
 
 [![Ultra.io](https://github.com/Rainase/ultra-technical-test/blob/main/ultra-logo.png)](https://ultra.io)
 
