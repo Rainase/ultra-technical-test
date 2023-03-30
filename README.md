@@ -93,6 +93,8 @@ npx playwright test --head
 
 [Playwright test results](https://rainase.github.io/ultra-technical-test/playwright-report/)
 
+[![Test results](https://github.com/Rainase/ultra-technical-test/blob/main/playwright-test-report.png)]
+
 ## CI/CD workflow
 
 - [Github Actions for CI](https://github.com/Rainase/ultra-technical-test/actions/workflows/main.yml)
