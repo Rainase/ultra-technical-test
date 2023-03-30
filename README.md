@@ -19,9 +19,9 @@ In this project you'll find:
 #### Add/remove multiple items into cart
 ```sh
 - Pick multiple items from the list and click "add to cart" button
- - Verify that Badge is visible on the Cart icon and the value represents the number of items added to cart.
- - Remove all items from the cart by clicking "Remove" button for each item added previously.
- - Verify that the badge is removed from the Cart icon.
+- Verify that Badge is visible on the Cart icon and the value represents the number of items added to cart.
+- Remove all items from the cart by clicking "Remove" button for each item added previously.
+- Verify that the badge is removed from the Cart icon.
  ```
 #### Add item into cart and complete purchase
 
